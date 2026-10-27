@@ -1,0 +1,5 @@
+{
+  "/rfqs/page": "app/rfqs/page.js",
+  "/rfqs/[id]/page": "app/rfqs/[id]/page.js",
+  "/page": "app/page.js"
+}
